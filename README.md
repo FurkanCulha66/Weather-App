@@ -5,6 +5,26 @@ It allows users to search for any city and instantly get real-time weather infor
 
 ---
 
+
+## 🛠️ Technologies Used
+
+- **HTML** – Markup structure  
+- **CSS** – Custom styling and layout  
+- **JavaScript** – API handling and logic  
+- **OpenWeatherMap API** – For fetching real-time weather data
+
+
+ ---
+
+
+#Preview
+
+<img width="1920" height="1080" alt="Weather-App_README md dosyasını ana sayfada düzenleme · FurkanCulha66_Weather-App - Google Chrome 12 07 2025 22_28_04" src="https://github.com/user-attachments/assets/4cc3201b-1db0-4336-8dd5-794adde35a3b" />
+
+
+---
+
+
 ## 🚀 Features
 
 - 🔍 **City-based Search** – Enter any city name to get current weather data  
@@ -13,15 +33,6 @@ It allows users to search for any city and instantly get real-time weather infor
 - 💨 **Humidity & Wind** – Displays humidity level and wind speed  
 - 🖼️ **Weather Icons** – Dynamic icons based on the weather condition  
 - ⚡ **Responsive Design** – Works smoothly on all screen sizes  
-
----
-
-## 🛠️ Technologies Used
-
-- **HTML** – Markup structure  
-- **CSS** – Custom styling and layout  
-- **JavaScript** – API handling and logic  
-- **OpenWeatherMap API** – For fetching real-time weather data  
 
 ---
 
@@ -36,11 +47,4 @@ It allows users to search for any city and instantly get real-time weather infor
 
 ---
 
-## 📌 Future Improvements (Optional)
 
-- 🌍 Auto-detect user's location and show local weather  
-- 🌙 Dark mode toggle  
-- 🕒 Show date & time  
-- 📱 Add mobile app version using React Native or Flutter
-
----
